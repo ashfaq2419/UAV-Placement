@@ -90,3 +90,8 @@ If you use TST (or any part of this code in your research), please cite the foll
 
 ## Contact
 If you have any query, please feel free to contact us at: taimur.hassan@ku.ac.ae.
+
+## Disclaimer
+Copyright © 2020 IEEE. Personal use of this material is permitted.
+However, permission to use this material for any other purposes must be
+obtained from the IEEE by sending an email to pubs-permissions@ieee.org.

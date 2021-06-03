@@ -1,9 +1,9 @@
 # Efficient UAV placement to serve maximum users through minimum UAVs
 
-[Paper](https://arxiv.org/abs/2009.13158), [Spotlight Presentation](https://youtu.be/T3m57pNdrqE)
+[Paper](https://ieeexplore.ieee.org/document/9313991)
 
 ## Introduction
-This repository contains the implementation of efficient UAV placement on predefined potential discrete locations. The objective is to serve a set number of user devices using minimum number of UAVs. 
+This repository contains the implementation of efficient UAV placement on predefined potential discrete locations. The objective is to serve a set number of user devices using minimum number of UAVs. The constrained optimization problem, and its conversion to unconstrained is explained in the attached paper. Feel free to ask us if you find any problem in the paper or the code.  
 
 In order to run the attached code, following softwares and packages are required to installed first:
 

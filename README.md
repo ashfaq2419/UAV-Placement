@@ -30,15 +30,7 @@ The results are stored in a cell. Later on the results are plotted in ms excel. 
 If you use this work (or any part of this code in your research), please cite the following paper:
 
 ```
-@ARTICLE{9313991,
-  author={Ahmed, Ashfaq and Naeem, Muhammad and Al-Dweik, Arafat},
-  journal={IEEE Access}, 
-  title={Joint Optimization of Sensors Association and UAVs Placement in IoT Applications With Practical Network Constraints}, 
-  year={2021},
-  volume={9},
-  number={},
-  pages={7674-7689},
-  doi={10.1109/ACCESS.2021.3049360}}
+A. Ahmed, M. Naeem and A. Al-Dweik, "Joint Optimization of Sensors Association and UAVs Placement in IoT Applications With Practical Network Constraints," in IEEE Access, vol. 9, pp. 7674-7689, 2021, doi: 10.1109/ACCESS.2021.3049360.
 ```
 
 ## Contact
